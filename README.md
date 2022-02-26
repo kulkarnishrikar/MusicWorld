@@ -34,9 +34,8 @@ Admin Panel Username and Password
 username:admin@gmail.com
 password:sujith123
 ```
-#  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
 
-Some Glimps....
+Some Glimpse....
 
 ![screenshot 56](https://user-images.githubusercontent.com/38497682/52524811-476dc100-2cc7-11e9-9269-acc1bf00997c.png)
 
